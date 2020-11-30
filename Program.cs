@@ -5,7 +5,16 @@ namespace консоль
     {
         public static void Main(string[] args)
         {
-            Console.Write("test");
+            char oneCharacter;
+            string wholeString;
+            ushort AnIntegerWithoutASymbol;
+            int wholeNumber;
+            uint unsignedInteger;
+            byte unsignedByte;
+            sbyte bytes;
+            float sevenCharactersAfterTheDecimalPoint;
+            double twelveDecimalPlaces;
+            bool boolean;
         }
 
        
